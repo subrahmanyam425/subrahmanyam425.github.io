@@ -19,7 +19,8 @@ body{
 
 /* Section COVER*/
 #cover{
-	height: 100%;
+	width: 100%;
+  	height: auto;
 	background: url('../img/trees.jpg') center;
 	background-size: cover;
 	color: white;
